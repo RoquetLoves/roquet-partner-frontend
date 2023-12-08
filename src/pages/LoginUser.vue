@@ -44,7 +44,7 @@ onMounted(async () => {
     </div>
     <div style="padding-top: 20px"/>
     <van-row justify="center">
-      <h3>"聚交友 —— 寻找志同道合的朋友"</h3>
+      <h3>"朋友多 —— 寻找志同道合的朋友"</h3>
     </van-row>
     <div style="margin: 14px;padding-top: 20px">
       <van-cell-group inset>

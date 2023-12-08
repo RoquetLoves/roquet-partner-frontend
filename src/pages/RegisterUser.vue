@@ -5,7 +5,7 @@
     </div>
     <div style="padding-top: 8px"/>
     <van-row justify="center">
-      <h3>"聚交友 —— 寻找志同道合的朋友"</h3>
+      <h3>"朋友多 —— 寻找志同道合的朋友"</h3>
     </van-row>
     <van-divider></van-divider>
     <!--  <van-uploader class="uploaderCenter" :after-read="afterRead"/>-->
