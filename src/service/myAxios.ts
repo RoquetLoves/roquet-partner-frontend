@@ -4,7 +4,7 @@ import router from "../router";
 
 const request = axios.create({
     // @ts-ignore
-    baseURL: process.env.NODE_ENV === "development" ? 'http://localhost:8080/api' : 'https://springboot-t24y-83783-6-1322971161.sh.run.tcloudbase.com/api',
+    baseURL: process.env.NODE_ENV === "development" ? 'http://localhost:8080/api' : 'https://roquet-backend-83783-6-1322971161.sh.run.tcloudbase.com/api',
     // baseURL: 'http://localhost:8080/api/',
 });
 request.defaults.withCredentials = true
